@@ -1,5 +1,5 @@
 ---
-title: my-first-tutorial-blog-post
+title: "my-first-tutorial-blog-post"
 date: 2020-09-25
 ---
 
